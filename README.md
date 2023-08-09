@@ -1,6 +1,6 @@
 # PDFDOC2MD
 
-An open-source script  to convert a batch od documents from Doc, Docx and PDF format to Markdown (MD). Uses Pandoc and pdf2md libraries.
+An open-source script  to convert a batch of documents from Doc, Docx and PDF format to Markdown (MD). Uses Pandoc and pdf2md libraries.
 
 ## Use it
 

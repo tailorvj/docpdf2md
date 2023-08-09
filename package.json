@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "GPLv3",
   "dependencies": {
     "@opendocsg/pdf2md": "^0.1.26",
     "node-dir": "^0.1.17",
